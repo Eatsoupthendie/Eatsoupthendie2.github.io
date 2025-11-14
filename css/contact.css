@@ -16,7 +16,7 @@ input {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #9d312f;
+  border: 1px solid #000435;
   border-radius: 4px;
   box-sizing: border-box;
 }
@@ -65,3 +65,4 @@ button:hover, button:focus {
   }
 
 }
+
