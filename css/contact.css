@@ -23,7 +23,7 @@ input {
 
 button {
   width: 100%;
-  background-color: #9d312f;
+  background-color: #FF474C;
   color: #000435;
   padding: 14px 20px;
   margin: 8px 0;
@@ -65,4 +65,5 @@ button:hover, button:focus {
   }
 
 }
+
 
