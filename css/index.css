@@ -38,7 +38,7 @@ aside a:focus {
 
 article {
 	background-color: #b46032;
-	color: 	#3e3e3e;
+	color: 	#000000;
 	font-size: 120%;
 	padding: 0 10px;
 }
@@ -92,3 +92,4 @@ article a:focus {
 
 
 }
+
