@@ -49,7 +49,7 @@ header {
   
   /* Style the links inside the navigation bar */
   nav a {
-    color: #ef9849;							
+    color: #000435;							
     float: left;
     font-size: 17px;
     padding: 30px 20px;
@@ -68,14 +68,14 @@ header {
   /* Change the color of links on focus using tab key */
   nav a:focus {
     background-color: #5b7a8c;
-    color: #5b7a8c;
+    color: #000435;
     outline: none;
   }
   
   /* Change the color of the active/current link */
   .active_nav {
     background-color: #5b7a8c;
-    color: #f08149;
+    color: #000435;
   }
 
   
@@ -119,3 +119,4 @@ footer {
   
 
   
+
