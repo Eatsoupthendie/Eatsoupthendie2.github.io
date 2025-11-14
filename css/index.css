@@ -14,7 +14,7 @@ aside {
 
 /* Style the links in the aside section */
 aside a {
-	color: #f5e5c1;
+	color: #000435;
 	display: block;
 	padding: 5px 0;
 	text-decoration: none;
@@ -89,5 +89,6 @@ article a:focus {
 		float: right;
 		width: 70%;
 	}
+
 
 }
