@@ -74,14 +74,14 @@ header {
   
   /* Change the color of the active/current link */
   .active_nav {
-    background-color: #5b7a8c;
+    background-color: #F08149;
     color: #000435;
   }
 
   
 footer {
-	background: #f4722b;
-  color: #34302d;
+	background: #000435;
+  color: #FF7F7F;
 	padding: 32px;
 	text-align: center;
 	width: 100%;
@@ -119,5 +119,6 @@ footer {
   
 
   
+
 
 
