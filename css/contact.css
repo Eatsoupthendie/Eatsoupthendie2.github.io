@@ -1,6 +1,6 @@
 form {
   border-radius: 5px;
-  background-color: #9d312f;
+  background-color: #FF474C;
   margin: 20px auto; 
   padding: 35px;
   width: 90%;
@@ -24,7 +24,7 @@ input {
 button {
   width: 100%;
   background-color: #9d312f;
-  color: #9d312f;
+  color: #000435;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -63,4 +63,5 @@ button:hover, button:focus {
     form {
     width: 30%;
   }
+
 }
